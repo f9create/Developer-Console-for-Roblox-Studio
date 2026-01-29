@@ -4,7 +4,7 @@
 
 1 ID VERIFICATION IN SCRIPT
 
-In lines 16-20, change the cells with the numbers inside the brackets to your Roblox ID. Without your ID, the console won't open or will return an error about insufficient rights.
+Change all cells with the numbers inside the brackets to your Roblox ID (123456). Without your ID, the console won't open or will return an error about insufficient rights.
 
 local ALLOWED_USERS = { [1] = {name = "Dev", level = 3}, --Enter your ROBLOX ID [2] = {name = "Admin", level = 2}, --Enter your ROBLOX ID [3] = {name = "Moderator", level = 1} -- }
 
